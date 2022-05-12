@@ -1,0 +1,24 @@
+PODS:
+  - Mapbox-iOS-SDK (6.4.1):
+    - MapboxMobileEvents (~> 0.10.12)
+  - MapboxGeocoder.swift (0.14.0)
+  - MapboxMobileEvents (0.10.14)
+
+DEPENDENCIES:
+  - Mapbox-iOS-SDK (~> 6.4.1)
+  - MapboxGeocoder.swift (~> 0.12)
+
+SPEC REPOS:
+  trunk:
+    - Mapbox-iOS-SDK
+    - MapboxGeocoder.swift
+    - MapboxMobileEvents
+
+SPEC CHECKSUMS:
+  Mapbox-iOS-SDK: f870f83cbdc7aa4a74afcee143aafb0dae390c82
+  MapboxGeocoder.swift: a288e92ec13fbd65bbdfd7c54c61b0e80d19e734
+  MapboxMobileEvents: 5a172cc9bbf8ac0e45ba86095cbee685ede248cc
+
+PODFILE CHECKSUM: 07c01e7575aa0b9aa3ea7c2bf2a2a65ef84b9a40
+
+COCOAPODS: 1.11.2
